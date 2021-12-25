@@ -12,27 +12,29 @@ i want to read between the lines
 </summary>
 
 #### _*intentionally*_?
+
 yes, no data collection is undertaken by the creator of the app/website.
 
 #### however
+
 distribution platforms collect or share data for analytics and the sort.
 
-<p style="margin-left: 2em;">
-<details>
+<details style="margin-left: 2em;display: block;">
 <summary>
 <h5 style="display:inline;"> some examples of how platforms collect or share data</h5>
 </summary>
 
-- [PlayStore](https://play.google.com) collects installation count and
-location data of the user
-- most browsers (Chrome, Firefox, Edge, Safari, curl, etc) inform websites
-of minimal information regarding the user such as
+- [PlayStore](https://play.google.com) collects installation count and location data of the user
+
+- most browsers (Chrome, Firefox, Edge, Safari, curl, etc) inform websites of minimal information regarding the user such as
+
    - the operating system (windows, macOS, etc.)
+
    - the browser name and version
+   
    - etc.
 
 </details>
-</p>
 
 and the creator of this app/website has no control over these depending on the platform
 
