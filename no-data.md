@@ -11,11 +11,11 @@ i want to read between the lines
 </h3>
 </summary>
 
-#### _*intentionally*_?
+<h4><strong><emphasis>intentionally</emphasis></strong>?</h4>
 
 yes, no data collection is undertaken by the creator of the app/website.
 
-#### however
+<h4>however</h4>
 
 distribution platforms collect or share data for analytics and the sort.
 
@@ -23,6 +23,8 @@ distribution platforms collect or share data for analytics and the sort.
 <summary>
 <h5 style="display:inline;"> some examples of how platforms collect or share data</h5>
 </summary>
+
+<ul>   
 
 - [PlayStore](https://play.google.com) collects installation count and location data of the user
 
@@ -33,6 +35,8 @@ distribution platforms collect or share data for analytics and the sort.
    - the browser name and version
    
    - etc.
+
+</ul>   
 
 </details>
 
